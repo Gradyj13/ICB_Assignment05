@@ -1,4 +1,4 @@
 Day 1: Started Analysis
 Day 2: Cleaned Data
-
+Day 3: Ran Statistical Tests
 
